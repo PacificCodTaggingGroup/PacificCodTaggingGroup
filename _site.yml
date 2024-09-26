@@ -1,0 +1,30 @@
+name: "Pacific Cod Tagging"
+title: "Pacific Cod Tagging"
+description: |
+  Pacific Cod Tagging materials
+favicon: favicon.ico
+output_dir: "docs"
+base_url: https://pacificcodtagginggroup.github.io/pacificcodtagging/
+navbar:
+  logo:
+    image: images/logo.png
+  search: false
+  right:
+    - text: "About us"
+      href: index.html
+    - text: "Workshops & Meetings"
+      href: meetings.html
+    - text: "Ongoing Research"
+      href: research.html
+    - text: "Publications & Talks"
+      href: publications.html
+    - text: "Resources"
+      href: resources.html
+    - icon: fab fa-github
+      href: https://github.com/PacificCodTaggingGroup/pacificcodtagging
+output:
+  distill::distill_article:
+    css: theme.css
+    includes:
+      in_header:
+      - _header.html

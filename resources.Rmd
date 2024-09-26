@@ -1,0 +1,22 @@
+---
+title: "Resources"
+description: |
+  MARVLS affiliate labs
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+##  MARVLS affiliate labs and links coming soon 
+
+
+## [MARVLS Fish Gonad Staging Learning Center](https://marvls.github.io/Fish-Gonad-Staging/)
+
+  
+ 
