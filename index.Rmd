@@ -38,7 +38,7 @@ Mission: to tag cod! under construction....
 
 
 
-<div style="float: left">[Click here to join the PACT email  list](https://docs.google.com/spreadsheets/d/1SaHmhj6l6d6JybSbwJNL1zyfqPBK0upNVHZ_64Bf3TI/edit#gid=0)</div> 
+<div style="float: left">[Click here to join the PACT email  list]()</div> 
 </div>
 
 <p></p>
