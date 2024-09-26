@@ -1,7 +1,7 @@
 ---
-title: "Quarterly Seminar"
+title: "Workshops"
 description: |
-  Links to MARVLS Quarterly Seminars.
+  Links to previous and future workshops.
 output:
   distill::distill_article:
     self_contained: false
