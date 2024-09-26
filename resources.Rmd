@@ -7,6 +7,8 @@ output:
     self_contained: false
     toc: true
     toc_depth: 3
+# csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa-no-ampersand.csl
+# bibliography: https://raw.githubusercontent.com/afsc-gap-products/citations/main/cite/bibliography.bib
 ---
 
 ```{r setup, include=FALSE}

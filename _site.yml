@@ -3,7 +3,7 @@ title: "Pacific Cod Tagging"
 description: |
   Pacific Cod Tagging materials
 favicon: favicon.ico
-output_dir: "docs"
+# output_dir: "docs"
 base_url: https://pacificcodtagginggroup.github.io/
 navbar:
   logo:
