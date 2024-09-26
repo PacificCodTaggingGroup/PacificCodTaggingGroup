@@ -19,4 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ## [MARVLS Fish Gonad Staging Learning Center](https://marvls.github.io/Fish-Gonad-Staging/)
 
   
- 
+# References
+
+::: {#refs}
+:::
