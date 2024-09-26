@@ -1,7 +1,7 @@
 ---
-title: "Resources"
+title: "Ongoing Research - Past and Present"
 description: |
-  MARVLS affiliate labs
+  Links to current and ongoing research....
 output:
   distill::distill_article:
     self_contained: false
@@ -15,10 +15,10 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-##  MARVLS affiliate labs and links coming soon 
+##  Collaborations...
 
 
-## [MARVLS Fish Gonad Staging Learning Center](https://marvls.github.io/Fish-Gonad-Staging/)
+## Stuff...
 
   
 # References
